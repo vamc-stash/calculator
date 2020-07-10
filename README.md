@@ -1,3 +1,5 @@
-# calculator
+# Calculator
 
-[Application Demo](https://vamc-stash.github.io/calculator/)
+A Simple Calculator app using ReactJS
+
+[Demo](https://vamc-stash.github.io/calculator/)
