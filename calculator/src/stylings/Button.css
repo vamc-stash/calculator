@@ -1,0 +1,24 @@
+.button, .buttonWide, .buttonOrange{
+	display: flex;
+	flex-direction: row;
+	width: 25%;
+	height: 100%;
+}
+
+.buttonWide{
+	width: 50%;
+}
+
+.button > button, .buttonWide > button, .buttonOrange > button{
+	width: 100%;
+	background-color: none;
+	font-size: 400%;
+	background-color: #00264d;
+	color: white;
+	border: none;
+	border: 0.1vmin solid white;
+}
+
+.buttonOrange > button{
+	color: orange; 
+}

@@ -1,0 +1,10 @@
+.button-panel{
+	position: relative;
+	width: 100%;
+}
+
+.row{
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
